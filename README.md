@@ -79,6 +79,6 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesam-alessa&show_icons=true&locale=en&layout=compact" alt="wesam-alessa" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesam-alessa&show_icons=true&locale=en" alt="wesam-alessa" /></p>
+
 
 
